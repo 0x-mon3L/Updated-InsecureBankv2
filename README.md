@@ -1,4 +1,6 @@
 # Updated-InsecureBankv2
-I have made few changes in the server side python code of the application so that it can run via python3 now. I am not the original author, Mr. Dineshshetty is the original author. Do check out his awesome repositories list. 
+The following changes were made:
 
-https://github.com/dineshshetty
+1. Replaced the python2 code with python3
+2. Added an extra credentials in the sqlite database, do check them out.
+and some other which I don't remember...
